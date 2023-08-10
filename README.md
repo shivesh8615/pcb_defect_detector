@@ -1,2 +1,2 @@
 # pcb_defect_detector
-This a repositry of my project i built on resarcher provided dataset. This model uses yolov5 for defect detection.
+This is a repository of my project I built on a researcher's provided dataset. This model uses yolov5 for defect detection.
